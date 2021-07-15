@@ -2,9 +2,9 @@
 
 ### Example
 
-a) If n = 10, the set of prime numbers less than 10 is [2,3,5,7], and so the medians are [3,5]
+If n = 10, the set of prime numbers less than 10 is [2,3,5,7], and so the medians are [3,5]
 
-b) If n = 18, the set of prime numbers less than 18 is [2,3,5,7,11,13,17], and so the median is [7]
+If n = 18, the set of prime numbers less than 18 is [2,3,5,7,11,13,17], and so the median is [7]
 
 ## Running the application
 node.js must be installed. Run `npm install` from the main folder of this project. Start the node server ('node server.js') and navigate to http://localhost:3000 to run the app.
