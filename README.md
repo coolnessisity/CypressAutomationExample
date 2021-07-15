@@ -1,4 +1,4 @@
- A simple cypress test suite for a web app that accepts a number and returns the median of the prime numbers between 1 and the number entered
+ A simple cypress test suite for a web app that accepts a number and returns the median prime number(s) between 1 and the number entered
 
 ### Example
 
