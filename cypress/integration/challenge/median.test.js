@@ -113,7 +113,7 @@ context('Assertions', () => {
 			})
 		})
 
-		//This seems to fail rarely. Form seems to have somewhat inconsistent behaviour, however I can't replicate it reliably
+		//This seems to fail rarely. Form has somewhat inconsistent behaviour, however I can't replicate it reliably
 		it.skip('invalid values: decimal number', () => {
 			cy.getMedian('1.5')
 			cy.get(numberInput).then(($input) => {
