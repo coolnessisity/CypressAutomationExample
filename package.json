@@ -1,10 +1,10 @@
 {
-  "name": "backend-challenge",
+  "name": "MedianProgramTest",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha",
+    "test": "npx cypress run --browser chrome --spec \"cypress/integration/challenge/median.test.js\"",
     "cypress:open": "cypress open"
   },
   "author": "",
